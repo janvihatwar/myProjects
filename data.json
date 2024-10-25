@@ -1,0 +1,34 @@
+[
+      {
+        "id": 1,
+        "title": "Smart Irrigation System",
+        "image": "https://example.com/smart-irrigation.jpg",
+        "description": "A precision farming system that optimizes water usage through IoT and real-time monitoring of soil moisture and weather conditions."
+      },
+      {
+        "id": 2,
+        "title": "Internship App",
+        "image": "https://example.com/internship-app.jpg",
+        "description": "An application helping students find internships based on their interests, providing resources in web development, AI, app development, and cloud computing."
+      },
+      {
+        "id": 3,
+        "title": "Analyze Your Text",
+        "image": "https://example.com/analyze-text.jpg",
+        "description": "A web app that analyzes text with encoding and decoding functionalities, offering insights into text patterns and character encoding."
+      },
+      {
+        "id": 4,
+        "title": "Portfolio Website",
+        "image": "https://example.com/portfolio.jpg",
+        "description": "My personal portfolio showcasing various projects, skills, and accomplishments in web development and programming."
+      },
+      {
+        "id": 5,
+        "title": "BK Enterprises Website",
+        "image": "https://example.com/bk-enterprises.jpg",
+        "description": "A business website developed for BK Enterprises, highlighting their services, products, and contact information."
+      }
+]
+  
+  
