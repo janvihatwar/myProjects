@@ -1,34 +1,55 @@
 [
-      {
-        "id": 1,
-        "title": "Smart Irrigation System",
-        "image": "https://example.com/smart-irrigation.jpg",
-        "description": "A precision farming system that optimizes water usage through IoT and real-time monitoring of soil moisture and weather conditions."
-      },
-      {
-        "id": 2,
-        "title": "Internship App",
-        "image": "https://example.com/internship-app.jpg",
-        "description": "An application helping students find internships based on their interests, providing resources in web development, AI, app development, and cloud computing."
-      },
-      {
-        "id": 3,
-        "title": "Analyze Your Text",
-        "image": "https://example.com/analyze-text.jpg",
-        "description": "A web app that analyzes text with encoding and decoding functionalities, offering insights into text patterns and character encoding."
-      },
-      {
-        "id": 4,
-        "title": "Portfolio Website",
-        "image": "https://example.com/portfolio.jpg",
-        "description": "My personal portfolio showcasing various projects, skills, and accomplishments in web development and programming."
-      },
-      {
-        "id": 5,
-        "title": "BK Enterprises Website",
-        "image": "https://example.com/bk-enterprises.jpg",
-        "description": "A business website developed for BK Enterprises, highlighting their services, products, and contact information."
-      }
+  {
+    "id": 1,
+    "title": "Text Analyzer",
+    "image": "https://imgur.com/a/EY1DaTm",
+    "description": "Text Analyzer is tool that will help you to perform encryption and decryption on message ,word counter and a character counting utility which can be used to manipulate your text in the way you want. you can copy manipulated text, remove extra spaces from your text also convert your text uppercase to lowercase and lowercase to uppercase.",
+    "view": {
+      "link": "https://janvihatwar.github.io/analyzeYourTextHere/",
+      "text": "View"
+    }
+  },
+  {
+    "id": 2,
+    "title": "BK Enterprises Website",
+    "image": "https://imgur.com/a/TRx1onU",
+    "description": "A business website developed for BK Enterprises, highlighting their services, products, and contact information.",
+    "view": {
+      "link": "https://janvihatwar.github.io/BK_enterprises.github.io/index.html",
+      "text": "View"
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "image": "https://imgur.com/a/c9qPsI1",
+    "description": "My personal portfolio showcasing various projects, skills, and accomplishments in web development and programming.",
+    "view": {
+      "link": "https://janvihatwar.github.io/",
+      "text": "View"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Rock Paper Scissor Game",
+    "image": "https://imgur.com/a/0FlS8M0",
+    "description": "This is a simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. The game is a digital version of the classic hand game, where you play against the computer.",
+    "view": {
+      "link": "https://janvihatwar.github.io/Rock_Paper_Scissor_Game/",
+      "text": "View"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Tic Tac Toe Game",
+    "image": "https://imgur.com/a/NJh6bE8",
+    "description": "This is a simple yet engaging Tic Tac Toe game built using HTML, CSS, and JavaScript. The game is designed to be played between two players, where each player takes turns to mark their symbol (X or O) on a 3x3 grid.",
+    "view": {
+      "link": "https://janvihatwar.github.io/Tic_Tac_Toe_Game/",
+      "text": "View"
+    }
+  }
+ 
+ 
 ]
-  
-  
