@@ -13,7 +13,7 @@ app.get("/",(req,res)=>{
 });
 
 
-app.get("/service",(req,res)=>{     //if user write /service in url then apiData shpuld be display
+app.get("/projects",(req,res)=>{     //if user write /projects in url then apiData shpuld be display
     res.send(apiData);
 });
 
