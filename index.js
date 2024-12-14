@@ -1,29 +1,27 @@
-const express=require("express");
-const cors=require("cors");
+const express = require("express");
+const cors = require("cors");
 
-const app=express();  //extracting express
+const app = express();  // Extracting express
+
+// Define CORS options once
 app.use(cors({
     origin: 'https://your-frontend-domain.com', // Replace with your frontend URL
     methods: ['GET', 'POST'], // Restrict to necessary methods
     allowedHeaders: ['Content-Type', 'Authorization'] // Optional headers
 }));
-app.use(cors(corsOptions));
 
+const port = process.env.PORT || 3000; // Adding port 
 
-const port=process.env.PORT || 3000; //adding port 
+const apiData = require("./data.json"); // Extracting data from data.json
 
-
-const apiData=require("./data.json"); //extracting data from data.json
-
-app.get("/",(req,res)=>{
-     res.send("hellow i am live");
+app.get("/", (req, res) => {
+    res.send("Hello, I am live");
 });
 
-
-app.get("/projects",(req,res)=>{     //if user write /projects in url then apiData shpuld be display
+app.get("/projects", (req, res) => { // If user writes /projects in URL, apiData should be displayed
     res.send(apiData);
 });
 
-app.listen(port,()=>{
-    console.log("i am live again");
+app.listen(port, () => {
+    console.log("I am live again");
 });
