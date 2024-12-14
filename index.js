@@ -5,7 +5,7 @@ const app = express();  // Extracting express
 
 // Define CORS options once
 app.use(cors({
-    origin: 'https://your-frontend-domain.com', // Replace with your frontend URL
+    origin: 'https://janvihatwar.github.io/myProjects', // Replace with your frontend URL
     methods: ['GET', 'POST'], // Restrict to necessary methods
     allowedHeaders: ['Content-Type', 'Authorization'] // Optional headers
 }));
