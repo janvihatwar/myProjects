@@ -2,7 +2,14 @@ const express=require("express");
 const cors=require("cors");
 
 const app=express();  //extracting express
-app.use(cors());
+app.use(cors({
+    origin: 'https://your-frontend-domain.com', // Replace with your frontend URL
+    methods: ['GET', 'POST'], // Restrict to necessary methods
+    allowedHeaders: ['Content-Type', 'Authorization'] // Optional headers
+}));
+app.use(cors(corsOptions));
+
+
 const port=process.env.PORT || 3000; //adding port 
 
 

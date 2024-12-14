@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Text Analyzer",
-    "image": "https://imgur.com/a/EY1DaTm",
+    "image": "https://res.cloudinary.com/dvhfscidj/image/upload/v1734106820/textAnazyler1_rneave.jpg",
     "description": "Text Analyzer is tool that will help you to perform encryption and decryption on message ,word counter and a character counting utility which can be used to manipulate your text in the way you want. you can copy manipulated text, remove extra spaces from your text also convert your text uppercase to lowercase and lowercase to uppercase.",
     "view": {
       "link": "https://janvihatwar.github.io/analyzeYourTextHere/",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "BK Enterprises Website",
-    "image": "https://imgur.com/a/TRx1onU",
+    "image": "https://res.cloudinary.com/dvhfscidj/image/upload/v1734107071/bkinter_xc7dme.png",
     "description": "A business website developed for BK Enterprises, highlighting their services, products, and contact information.",
     "view": {
       "link": "https://janvihatwar.github.io/BK_enterprises.github.io/index.html",
@@ -23,7 +23,7 @@
   {
     "id": 3,
     "title": "Portfolio Website",
-    "image": "https://imgur.com/a/c9qPsI1",
+    "image": "https://res.cloudinary.com/dvhfscidj/image/upload/v1734107094/portfolio_nvfq3k.png",
     "description": "My personal portfolio showcasing various projects, skills, and accomplishments in web development and programming.",
     "view": {
       "link": "https://janvihatwar.github.io/",
@@ -33,7 +33,7 @@
   {
     "id": 4,
     "title": "Rock Paper Scissor Game",
-    "image": "https://imgur.com/a/0FlS8M0",
+    "image": "https://res.cloudinary.com/dvhfscidj/image/upload/v1734107115/stoneppr_wdzkzl.png",
     "description": "This is a simple and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript. The game is a digital version of the classic hand game, where you play against the computer.",
     "view": {
       "link": "https://janvihatwar.github.io/Rock_Paper_Scissor_Game/",
@@ -43,7 +43,7 @@
   {
     "id": 5,
     "title": "Tic Tac Toe Game",
-    "image": "https://imgur.com/a/NJh6bE8",
+    "image": "https://res.cloudinary.com/dvhfscidj/image/upload/v1734107136/tictactoe_cbojot.png",
     "description": "This is a simple yet engaging Tic Tac Toe game built using HTML, CSS, and JavaScript. The game is designed to be played between two players, where each player takes turns to mark their symbol (X or O) on a 3x3 grid.",
     "view": {
       "link": "https://janvihatwar.github.io/Tic_Tac_Toe_Game/",
